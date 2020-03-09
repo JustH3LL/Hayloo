@@ -28,7 +28,7 @@ __**Halo Custom "Unfucked" Edition:**__ https://drive.google.com/open?id=1-rvR5F
 
 **BUT FIRST**
 
-You *have* to run a few commands to set it up properly. Firstly, any sort of chat functionality is 99% likely to be broken out of the box. There is a fix, but there also is an issue with the game being so fucking old that it will have a persistent error box in the top left if you touch 1080p. Secondly, when you download the game, you will notice a batch file called `haloce.bat`. Open it in notepad.
+You *have* to run a few commands to set it up properly. Firstly, any sort of chat functionality is 99% likely to be broken out of the box. There is a fix, but there also is an issue with the game being so fucking old that it will have a persistent error box in the top left if you touch 1080p if you use said fix. Secondly, when you download the game, you will notice a batch file called `haloce.bat`. Open it in notepad.
 
 it should look like:
 
