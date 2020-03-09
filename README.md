@@ -3,19 +3,19 @@
 
 __The improvements are as follows:__
 
--    **1.10 patch**    https://halo-fixes.forumotion.com/t6-manual-1-10-update-for-players-with-unofficial-copies
+-    [**1.10 patch**]    (https://halo-fixes.forumotion.com/t6-manual-1-10-update-for-players-with-unofficial-copies)
     -    This is pretty much manditory if you want to play online. Gamespy is dead, kiddo.
     
--    **Halo AntiCheat 2 (HAC2)**    http://198.98.120.174/index.html
+-    [**Halo AntiCheat 2 (HAC2)**]    (http://198.98.120.174/index.html)
     -    I included this to have the functionality of downloading maps in-game when you attempt to join a server
     
--    **Chimera**    https://opencarnage.net/index.php?/topic/6916-chimera-build-49/
+-    [**Chimera**]    (https://opencarnage.net/index.php?/topic/6916-chimera-build-49/)
     -    Those sweet interpolated animations and other visual improvements, including FOV. You *could* use HAC to change FOV as well, but I recommend using this instead. HAC doesn't like remembering your FOV setting and tends to forget it.
     
--    **Halo CE Refined campaign maps**    https://haloce3.com/downloads/singleplayer/modified-singleplayer/refined-halo-1-singleplayer-maps/?_sft_category=modified-singleplayer
+-    [**Halo CE Refined campaign maps**]    (https://haloce3.com/downloads/singleplayer/modified-singleplayer/refined-halo-1-singleplayer-maps/?_sft_category=modified-singleplayer)
     -    The campaign but with less broken visuals and a nice HD remake of the UI (note that the UI will only be present in the Combat Evolved campaign due to how the Halo CE engine functions.)
     
--    **Universal UI**    http://hce.halomaps.org/index.cfm?fid=6952
+-    [**Universal UI**]    (http://hce.halomaps.org/index.cfm?fid=6952)
     -    A way better main menu.
     
 
@@ -23,7 +23,7 @@ __The improvements are as follows:__
 
 **Now that's out of the way, you can download it here:**
 
-__**Halo Custom "Unfucked" Edition:**__ https://drive.google.com/open?id=1-rvR5Fk59YNmyEBU4pnwb3bT5j0VXzeh
+[__**Halo Custom "Unfucked" Edition**__] (https://drive.google.com/open?id=1-rvR5Fk59YNmyEBU4pnwb3bT5j0VXzeh)
 
 
 **BUT FIRST**
