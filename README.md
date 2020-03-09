@@ -41,11 +41,17 @@ Once it is saved, close notepad as you will no longer be needing it. Launch the 
 Pull up the command prompt with the ~ key, and type these commands:
 
 `chimera_interpolate 9`
+
 `chimera_uncap_cinematic 1`
+
 `chimera_block_lod 1`
+
 `chimera_block_zoom_blur 1`
+
 `chimera_af 1`
+
 `redirect_kill_feed 1`
+
 `custom_chat 1`
 
 and then there's:
